@@ -1,0 +1,165 @@
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\home.dll.config
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\home.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\home.pdb
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\WebForms_Basic.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Antlr3.Runtime.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\EntityFramework.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\EntityFramework.SqlServer.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.Google.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Web.Infrastructure.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Newtonsoft.Json.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Owin.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\System.Web.Optimization.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\System.Web.Providers.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\WebGrease.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\System.Web.Optimization.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Antlr3.Runtime.pdb
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Newtonsoft.Json.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\EntityFramework.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\EntityFramework.SqlServer.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.Google.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\obj\Debug\home.vbprojResolveAssemblyReference.cache
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\obj\Debug\home.Resources.resources
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\obj\Debug\home.vbproj.GenerateResource.Cache
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\obj\Debug\home.dll
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\obj\Debug\WebForms_Basic.xml
+c:\users\melvin vincy\documents\visual studio 2013\Projects\home\home\obj\Debug\home.pdb
+C:\Users\Melvin Vincy\Desktop\home\home\bin\home.dll.config
+C:\Users\Melvin Vincy\Desktop\home\home\bin\home.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\home.pdb
+C:\Users\Melvin Vincy\Desktop\home\home\bin\WebForms_Basic.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Antlr3.Runtime.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\EntityFramework.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\EntityFramework.SqlServer.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Newtonsoft.Json.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Owin.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\System.Web.Optimization.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\System.Web.Providers.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\WebGrease.dll
+C:\Users\Melvin Vincy\Desktop\home\home\bin\System.Web.Optimization.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Antlr3.Runtime.pdb
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Newtonsoft.Json.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\EntityFramework.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\EntityFramework.SqlServer.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Melvin Vincy\Desktop\home\home\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Melvin Vincy\Desktop\home\home\obj\Debug\home.vbprojResolveAssemblyReference.cache
+C:\Users\Melvin Vincy\Desktop\home\home\obj\Debug\home.Resources.resources
+C:\Users\Melvin Vincy\Desktop\home\home\obj\Debug\home.vbproj.GenerateResource.Cache
+C:\Users\Melvin Vincy\Desktop\home\home\obj\Debug\home.dll
+C:\Users\Melvin Vincy\Desktop\home\home\obj\Debug\WebForms_Basic.xml
+C:\Users\Melvin Vincy\Desktop\home\home\obj\Debug\home.pdb
+D:\project\MELVIN\home - Copy\home\bin\home.dll.config
+D:\project\MELVIN\home - Copy\home\bin\home.dll
+D:\project\MELVIN\home - Copy\home\bin\home.pdb
+D:\project\MELVIN\home - Copy\home\bin\WebForms_Basic.xml
+D:\project\MELVIN\home - Copy\home\bin\Antlr3.Runtime.dll
+D:\project\MELVIN\home - Copy\home\bin\AspNet.ScriptManager.bootstrap.dll
+D:\project\MELVIN\home - Copy\home\bin\AspNet.ScriptManager.jQuery.dll
+D:\project\MELVIN\home - Copy\home\bin\EntityFramework.dll
+D:\project\MELVIN\home - Copy\home\bin\EntityFramework.SqlServer.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.AspNet.Identity.Core.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.Cookies.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.Facebook.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.Google.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.OAuth.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.Twitter.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.ScriptManager.WebForms.dll
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Web.Infrastructure.dll
+D:\project\MELVIN\home - Copy\home\bin\Newtonsoft.Json.dll
+D:\project\MELVIN\home - Copy\home\bin\Owin.dll
+D:\project\MELVIN\home - Copy\home\bin\System.Web.Optimization.dll
+D:\project\MELVIN\home - Copy\home\bin\System.Web.Providers.dll
+D:\project\MELVIN\home - Copy\home\bin\WebGrease.dll
+D:\project\MELVIN\home - Copy\home\bin\System.Web.Optimization.xml
+D:\project\MELVIN\home - Copy\home\bin\Antlr3.Runtime.pdb
+D:\project\MELVIN\home - Copy\home\bin\Newtonsoft.Json.xml
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\project\MELVIN\home - Copy\home\bin\EntityFramework.xml
+D:\project\MELVIN\home - Copy\home\bin\EntityFramework.SqlServer.xml
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.AspNet.Identity.Core.xml
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.xml
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.xml
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.Facebook.xml
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.Cookies.xml
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.Google.xml
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.Twitter.xml
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\project\MELVIN\home - Copy\home\bin\Microsoft.Owin.Security.OAuth.xml
+D:\project\MELVIN\home - Copy\home\obj\Debug\home.vbprojResolveAssemblyReference.cache
+D:\project\MELVIN\home - Copy\home\obj\Debug\home.Resources.resources
+D:\project\MELVIN\home - Copy\home\obj\Debug\home.vbproj.GenerateResource.Cache
+D:\project\MELVIN\home - Copy\home\obj\Debug\home.dll
+D:\project\MELVIN\home - Copy\home\obj\Debug\WebForms_Basic.xml
+D:\project\MELVIN\home - Copy\home\obj\Debug\home.pdb
